@@ -1,0 +1,64 @@
+
+  
+//   .container {
+//     display: flex;
+//     flex-wrap: wrap; /* Allow items to wrap when not enough horizontal space */
+//     justify-content: center; /* Center horizontally */
+//     align-items: flex-start; /* Align items to the top vertically */
+//   }
+  
+//   .user-card {
+//     width: 200px;
+//     height: auto;
+//     padding-bottom: 2rem;
+//     margin: 10px;
+//     /* ...other card styles... */
+//   }
+  
+  
+// .user-card {
+//     width: 300px;
+//     height: auto;
+//     padding-bottom: 2rem;
+//     flex-direction: column;
+//     display: inline-block;
+//     margin: 10px;
+//   }
+  
+//   .card {
+//     width: auto;
+//     height: 100%;
+//     display: flex;
+//     flex-direction: column;
+//     overflow: hidden;
+//   }
+  
+//   .bg-image {
+//     position: relative;
+//   }
+  
+//   .fixed-size-image {
+//     width: 100%;  /* Đảm bảo ảnh chiếm 100% chiều ngang của phần tử */
+//     height: 200px; /* Xác định kích thước chiều cao tùy ý */
+//     object-fit: cover; /* Đảm bảo ảnh không bị biến dạng */
+//   }
+  
+//   .card-body {
+//     flex-grow: 1;
+//     display: flex;
+//     flex-direction: column;
+//     justify-content: space-between;
+//     padding: 1rem;
+//   }
+  
+//   .card-title {
+//     margin-bottom: 0.5rem;
+//   }
+  
+//   .button-container {
+//     display: flex;
+//     justify-content: center;
+//     align-items: center;
+//     margin-top: 1rem;
+//   }
+  
